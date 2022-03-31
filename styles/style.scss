@@ -1,0 +1,39 @@
+@import "reset";
+@import "colors";
+@import "index2style";
+@import "index3style";
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(../img/maddy-baker-RwrWkPhRUj0-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  width: 100%;
+  margin-top: 3.5rem;
+}
+
+header {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(20px);
+
+  h1 {
+    padding-top: 9rem;
+    padding-bottom: 10rem;
+    text-align: center;
+    font-size: 3rem;
+    color: $dark-green;
+  }
+}
+#first-page-section {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(20px);
+
+  p {
+    margin-top: 5rem;
+    text-align: center;
+    font-weight: bolder;
+    padding: 5rem;
+  }
+}

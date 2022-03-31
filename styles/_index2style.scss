@@ -1,0 +1,35 @@
+#second-page-section {
+  
+  .container {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+  }
+  .article {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+  }
+  .article-nav {
+    a {
+      color: $dark-green;
+    }
+    a:hover {
+      color: $light-green;
+    }
+  }
+  h2 {
+    color: $dark-green;
+    font-weight: bold;
+    margin: 5rem 0 5rem 0;
+    padding-top: 3rem;
+    text-align: center;
+  }
+  h3 {
+    padding: 1rem;
+  }
+  .article-nav {
+    margin-top: 5rem;
+    text-align: center;
+    font-weight: bolder;
+    padding: 5rem;
+  }
+}

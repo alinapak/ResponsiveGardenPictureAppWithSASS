@@ -28,7 +28,7 @@ This project isn't in GitHub Pages, so if you want to have a look at it, you'll 
 ![image](https://user-images.githubusercontent.com/99712422/161115893-e841d7c6-5397-455f-96c1-2e36ddae854c.png)
 
 
-   * You should install Live sass Compiler, if you don't see this button;
+   * You should install Live Sass Compiler, if you don't see this button;
    * It is needed to be done, to compile CSS files.
 7. Press Go Live to have a look at this project:
 

@@ -33,3 +33,25 @@
     padding: 5rem;
   }
 }
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top:5rem;
+  img {
+    width: 30vw;
+    height: 30vw;
+    object-fit: cover;
+  }
+  .card {
+    background-color: $light-green;
+    padding:1rem 0 1rem 0;
+    text-align: center;
+  }
+  a {
+    color: $black;
+  }
+  .card:hover {
+    background-color: $dark-green;
+  }
+}

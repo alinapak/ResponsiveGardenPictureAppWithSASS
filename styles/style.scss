@@ -73,3 +73,26 @@ footer {
     color: $dark-green;
   }
 }
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  // padding: 1rem;
+  background-color: $light-green;
+
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    padding:1rem;
+
+    a {
+      color: $black;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+    a:hover {
+      color: $dark-green;
+    }
+  }
+}

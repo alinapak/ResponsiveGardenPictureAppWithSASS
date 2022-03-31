@@ -1,5 +1,4 @@
 # Sprint3
-=======
 This project is created for study purposes. It is a web page, which is simulation, and it introduces user with garden plants and its layouts in garden.
 
 # Description

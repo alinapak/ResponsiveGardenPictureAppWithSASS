@@ -16,8 +16,10 @@ This project isn't in GitHub Pages, so if you want to have a look at it, you'll 
 3. Clone this repository with GitHub CLI command:
 
 
-
 ![image](https://user-images.githubusercontent.com/99712422/161113218-b9981df1-8962-47e7-9930-eded6222ab19.png)
+
+
+
 4. After that, open your VSCode (you also can do it with Git command ```code```)
 5. Open Cloned repository folder in your VSCode.
 6. Press Watch SASS button, which is at the bottom of your VSCode:

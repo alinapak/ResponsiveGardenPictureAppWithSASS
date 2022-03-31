@@ -1,7 +1,7 @@
 # Sprint3
 This project is created for study purposes. It is a web page, which is simulation, and it introduces user with garden plants and its layouts in garden.
 
-# Description
+## Description
 This project has two branches:
 1. **Main Branch**, where you can see simple version of these pages.
 2. **Feature Branch**, where you can find a feature: ```To Top``` button.

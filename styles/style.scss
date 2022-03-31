@@ -37,3 +37,39 @@ header {
     padding: 5rem;
   }
 }
+footer {
+  margin-top: 5rem;
+  background-color: $light-green;
+  font-weight: bolder;
+  display: grid;
+  grid-template-columns: auto auto;
+  padding:2rem 0 1rem 0;
+
+  .grid {
+    display: grid;
+    justify-self: center;
+  }
+  .icons {
+    display: flex;
+    gap: 1rem;
+    font-size: 1.5rem;
+  }
+  p {
+    width: fit-content;
+    margin: 0 auto;
+    grid-area: 2/1/2/3;
+    padding-top: 1rem;
+  }
+  li {
+    padding: 0.5rem 0 0.5rem 0;
+  }
+  .footer-title {
+    font-size: larger;
+  }
+  a {
+    color: $dark;
+  }
+  a:hover {
+    color: $dark-green;
+  }
+}

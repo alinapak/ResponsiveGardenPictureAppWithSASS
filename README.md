@@ -4,18 +4,24 @@ This project is created for study purposes. It is a web page, which is simulatio
 ## Description
 This project has two branches:
 1. **Main Branch**, where you can see simple version of these pages.
-2. **Feature Branch**, where you can find a feature: ```To Top``` button.
+2. **Feature Branch**, where you can find a feature: To Top ``` ^ ``` button.
 
 ## Techniques used
 To create this project it was used HTML and SCSS.
 
 ## Instalation
-This project isn't in GitHub Pages, so if you want to have a look at it, you'll need to do some instalation:
+This project isn't in GitHub Pages, so if you want to have a look at it, you'll need to do some instalation
+
 1. Open your GitHub CLI
 2. With ```cd``` commands go to a folder, where you want to clone this project (or create a new one with ```mkdir``` command).
 3. Clone this repository with GitHub CLI command:
 
 ``` git clone <link> ```
+
+**P.S.**
+If you want to see a page with feature To Top ``` ^ ``` button from a feature branch, you should type this command :
+
+```  git clone --single-branch --branch feature <link> ```
 
 4. Then copy this link:
 

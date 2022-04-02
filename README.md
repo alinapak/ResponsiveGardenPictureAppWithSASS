@@ -17,15 +17,16 @@ This project isn't in GitHub Pages, so if you want to have a look at it, you'll 
 
 ``` git clone <link> ```
 
-4. Then add this link:
+4. Then copy this link:
 
 
 ![image](https://user-images.githubusercontent.com/99712422/161384657-d0af20dc-f76f-497f-9038-0ddd0d9174ce.png)
 
 
-4. After that, open your VSCode (you also can do it with Git command ```code```)
-5. Open Cloned repository folder in your VSCode.
-6. Press Watch SASS button, which is at the bottom of your VSCode:
+5. Add it to your ``` git clone ``` comand by pressing "Shift" + "Insert"
+6. After that, open your VSCode (you also can do it with Git command ```code```)
+7. Open Cloned repository folder in your VSCode.
+8. Press Watch SASS button, which is at the bottom of your VSCode:
 
 
 ![image](https://user-images.githubusercontent.com/99712422/161115893-e841d7c6-5397-455f-96c1-2e36ddae854c.png)
@@ -33,7 +34,7 @@ This project isn't in GitHub Pages, so if you want to have a look at it, you'll 
 
    * You should install Live Sass Compiler, if you don't see this button;
    * It is needed to be done, to compile CSS files.
-7. Press Go Live to have a look at this project:
+9. Press Go Live to have a look at this project:
 
 
 ![image](https://user-images.githubusercontent.com/99712422/161116608-be3e5858-189a-4f05-8cae-5f4904aceca9.png)

@@ -97,3 +97,29 @@ nav {
     }
   }
 }
+button {
+  padding:1.5rem 0 1rem 0;
+  color:$dark;
+  background-color: $light-green;
+  border:solid 1px $dark-green;
+  border-radius:25px;
+  font-weight: 700;
+  position: sticky;
+  bottom:1rem;
+  left:100%;
+  top:80%;
+ 
+a {
+  padding:2rem;
+
+}
+.arrow {
+  border: solid $dark;
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 5px;
+}
+.up {
+  transform: rotate(-135deg);
+}
+}

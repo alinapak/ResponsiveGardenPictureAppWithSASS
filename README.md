@@ -1,9 +1,4 @@
 # Sprint3
-<<<<<<< HEAD
-
-
-
-=======
 This project is created for study purposes. It is a web page, which is simulation, and it introduces user with garden plants and its layouts in garden.
 
 # Description
@@ -34,4 +29,4 @@ The same instalation is needed for both branches.
 
 ## Author
 This project is created by me: [Alina Pakamorytė](https://www.linkedin.com/in/alina-pakamoryt%C4%97-73a66377/)
->>>>>>> be70629764a1ec96b1463819361b877d68ecc743
+

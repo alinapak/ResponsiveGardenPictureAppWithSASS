@@ -23,7 +23,7 @@ This project isn't in GitHub Pages, so if you want to have a look at it, you'll 
 ![image](https://user-images.githubusercontent.com/99712422/161384657-d0af20dc-f76f-497f-9038-0ddd0d9174ce.png)
 
 
-5. Add it to your ``` git clone ``` comand by pressing "Shift" + "Insert"
+5. Add it to your ``` git clone ``` command by pressing "Shift" + "Insert"
 6. After that, open your VSCode (you also can do it with Git command ```code```)
 7. Open Cloned repository folder in your VSCode.
 8. Press Watch SASS button, which is at the bottom of your VSCode:

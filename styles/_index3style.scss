@@ -1,22 +1,25 @@
 #third-page-section {
-  .container{
+  .container {
     background: rgba(255, 255, 255, 0.15);
-  backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+
     p {
       margin-top: 5rem;
       text-align: center;
       font-weight: bolder;
       padding: 5rem;
+    }
   }
-}
-.image-grid {
-  background: rgba(255, 255, 255, 0.15);
-backdrop-filter: blur(20px);
-padding-top:5rem;
-.gallery {
-  background-color: $light-green;
-  padding: 1rem 0 1rem 0;
-  text-align: center;
-}
-}
+
+  .image-grid {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+    padding-top: 5rem;
+
+    .gallery {
+      background-color: $light-green;
+      padding: 1rem 0 1rem 0;
+      text-align: center;
+    }
+  }
 }

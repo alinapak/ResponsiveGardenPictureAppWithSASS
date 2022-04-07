@@ -15,6 +15,30 @@ body {
   margin-top: 3.5rem;
 }
 
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: $light-green;
+
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    padding: 1rem;
+
+    a {
+      color: $black;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    a:hover {
+      color: $dark-green;
+    }
+  }
+}
+
 header {
   background: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(20px);
@@ -27,6 +51,7 @@ header {
     color: $dark-green;
   }
 }
+
 #first-page-section {
   background: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(20px);
@@ -38,62 +63,46 @@ header {
     padding: 5rem;
   }
 }
+
 footer {
   margin-top: 5rem;
   background-color: $light-green;
   font-weight: bolder;
   display: grid;
   grid-template-columns: auto auto;
-  padding:2rem 0 1rem 0;
+  padding: 2rem 0 1rem 0;
 
   .grid {
     display: grid;
     justify-self: center;
   }
+
   .icons {
     display: flex;
     gap: 1rem;
     font-size: 1.5rem;
   }
+
   p {
     width: fit-content;
     margin: 0 auto;
     grid-area: 2/1/2/3;
     padding-top: 1rem;
   }
+
   li {
     padding: 0.5rem 0 0.5rem 0;
   }
+
   .footer-title {
     font-size: larger;
   }
+
   a {
     color: $dark;
   }
+
   a:hover {
     color: $dark-green;
-  }
-}
-nav {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  // padding: 1rem;
-  background-color: $light-green;
-
-  ul {
-    display: flex;
-    justify-content: flex-end;
-    gap: 1rem;
-    padding:1rem;
-
-    a {
-      color: $black;
-      font-weight: bold;
-      font-size: 1.2rem;
-    }
-    a:hover {
-      color: $dark-green;
-    }
   }
 }
